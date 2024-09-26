@@ -1,0 +1,115 @@
+body {
+    margin: 0;
+}
+
+.top1 {
+    background-color: rgb(13, 65, 133);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    text-align: center;
+    padding: 1%;
+}
+
+.mid1A, .mid2A, .mid3A {
+    display: flex;
+    background-color: rgb(13, 65, 133);
+    padding: 2%;
+}
+
+.mid1B, .mid2B, .mid3B {
+    background-color: rgb(13, 65, 133);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    text-align: left;
+    padding: 2%;
+}
+
+.mid4A {
+    flex-direction: column;
+    display: flex;
+    background-color: rgb(13, 65, 133);
+    padding: 2%;
+}
+
+.mid4B {
+    background-color: rgb(13, 65, 133);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    text-align: left;
+    padding: 2%;
+}
+
+.low1A, .low1B, .low2A, .low2B {
+    background-color: rgb(13, 65, 133);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding: 1%;
+}
+
+.low3A, .low3B {
+    background-color: rgb(13, 65, 133);
+    color: grey;
+    padding: 0.5%;
+}
+
+#comite, #medalhas, #A, #B, #C, #D, #E, #F, #G, #H, #I {
+    transition: transform 0.5s ease, filter 0.5s ease;
+    border-radius: 25px;
+}
+
+#comite:hover {
+    transform: scale(1.2);
+}
+
+#medalhas:hover {
+    transform: scale(1.2);
+}
+
+#A:hover {
+    transform: scale(1.2);
+}
+
+#B:hover {
+    transform: scale(1.2);
+}
+
+#C:hover {
+    transform: scale(1.2);
+}
+
+#D:hover {
+    transform: scale(1.2);
+}
+
+#E:hover {
+    transform: scale(1.2);
+}
+
+#F:hover {
+    transform: scale(1.2);
+}
+
+#G:hover {
+    transform: scale(1.2);
+}
+
+#H:hover {
+    transform: scale(1.2);
+}
+
+#I:hover {
+    transform: scale(1.2);
+}
+
+
+
+#insta, #ttk {
+    color: aqua;
+}
+
+#hamer, #bolsafed, #bolsaestad {
+    border-radius: 10px;
+}
