@@ -43,8 +43,6 @@ body {
 }
 
 .low1A, .low1B, .low2A, .low2B {
-    text-decoration: underline;
-    text-align: right;
     background-color: rgb(13, 65, 133);
     font-family: Arial, Helvetica, sans-serif;
     color: white;
