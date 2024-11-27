@@ -43,7 +43,6 @@ body {
 }
 
 .low1A, .low1B, .low2A, .low2B {
-    text-align: right;
     background-color: rgb(13, 65, 133);
     font-family: Arial, Helvetica, sans-serif;
     color: white;
@@ -51,7 +50,6 @@ body {
 }
 
 .low3A, .low3B {
-    text-decoration: underline;
     color: gray;
     background-color: rgb(13, 65, 133);
     padding: 0.5%;
@@ -114,4 +112,8 @@ body {
 
 #hamer, #bolsafed, #bolsaestad {
     border-radius: 10px;
+}
+
+#orto {
+    border-radius: 51px;
 }
